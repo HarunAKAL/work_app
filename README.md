@@ -1,1 +1,1 @@
-İnsanların İş ilanı verip yada iş başvurusu yapabileceği google ile giriş seçeneği ve ingilizce-türkçe dil desteği bulunan firebase veritabanı kullanılan flutter-dart kullanılarak geliştirilmiş mobil bir uygulama (dil desteği )
+İnsanların İş ilanı verip yada iş başvurusu yapabileceği google ile giriş seçeneği ve ingilizce-türkçe dil desteği bulunan firebase veritabanı kullanılan flutter-dart kullanılarak geliştirilmiş mobil bir uygulama (dil desteği için providers kullanılmıştır.)
